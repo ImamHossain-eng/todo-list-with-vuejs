@@ -29,8 +29,8 @@ export default {
           completed : true
         },
         {
-          id : 1,
-          title : "This is one",
+          id : 3,
+          title : "This is three",
           completed : false
         }
       ]
