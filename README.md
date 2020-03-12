@@ -1,4 +1,5 @@
-# test
+# simple todo list using vue js
+
 
 ## Project setup
 ```
